@@ -154,5 +154,5 @@ The settings page allows you to configure:
 - [Twilio](https://www.twilio.com/)
 
 ## 👨‍💻 Author
-- **Syed Abdul Basith** 
+**Anishitha varma** 
   
